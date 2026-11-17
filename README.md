@@ -8,17 +8,4 @@ O objetivo do Monitor é oferecer uma ferramenta simples, organizada e eficiente
 
 🛠️ Tecnologias
 
-Python 3
-
-Bibliotecas Python
-
-📦 Instalação
-
-git clone https://github.com/Douglas115Basstos/Monitor.git
-cd Monitor
-
-▶️ Como executar
-
-python main.py
-
-Desenvolvido com Python 🐍
+Python 3 🐍
