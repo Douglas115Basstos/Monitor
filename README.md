@@ -21,10 +21,4 @@ cd Monitor
 
 python main.py
 
-👨‍💻 Desenvolvedor
-
-Douglas115Basstos
-
-GitHub: https://github.com/Douglas115Basstos
-
 Desenvolvido com Python 🐍
